@@ -19,7 +19,7 @@ def contain(nums):
     else:
         return True
 
-print(contain([1,2,2,3]))
+print(contain([1,2,2,3,4]))
 
 
 
