@@ -1,3 +1,4 @@
+#1
 def patternMap(a,b):
     s={}
     t={}
@@ -16,6 +17,7 @@ def patternMap(a,b):
 
 print(patternMap('abba','dog cat cat dog'))
 
+#2
 def t(pattern,s):
     p_ = {}
     q_ = {}
@@ -37,7 +39,7 @@ print(t('abba','dog cat cat dog'))
 
 
 
-
+#3
 #---------------------------------------------
 def patternMsap(a, b):
     s = {}

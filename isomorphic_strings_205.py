@@ -1,3 +1,4 @@
+#1
 def isIsomorphic(s, t):
     if len(s) != len(t):
         return False
@@ -11,7 +12,7 @@ def isIsomorphic(s, t):
         else:d[l]=i
     return False
 
-
+#2
 def iso(p,q):
     s={}
     t={}
