@@ -9,3 +9,6 @@ class Solution:
                 seen[val] = i
 
         return False
+
+    def a(self):
+        return 'fuck you'
